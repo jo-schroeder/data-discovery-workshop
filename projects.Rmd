@@ -1,0 +1,34 @@
+---
+title: ""
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+## [Social Impact Data Commons](https://uva-bi-sdad.github.io/sdc.intro/health_equity.html)
+
+-   Role: Metadata Team Lead, Infrastructure and WebApps Team, Dataset
+    Producer
+
+-   Tools: R and RStudio, Python and Jupyter Notebooks, HTML, CSS,
+    JavaScript, GitHub
+
+-   Methods: Data Discovery, Webscraping, Data Stories
+
+## [Status of Women and Girls in Fairfax County](https://www.fairfaxcounty.gov/familyservices/gains-gaps-goals-status-women-and-girls-fairfax-county)
+
+-   Role: Research Lead
+
+-   Tools: R and RStudio, GitHub
+
+-   Methods: Community Learning through Data Driven Discovery, Data
+    Visualization, Descriptive Statistics, Mixed Methods
+
+## [Exploring Documents as Data](https://dspg-young-scholars-program.github.io/dspg23ari/)
+
+-   Role: Staff Lead of Sudent Research Project
+
+-   Tools: R and RStudio, Python and Jupyter Notebooks, GitHub
+
+-   Methods: Regular Expressions, Descriptive Statistics, Large Language
+    Models

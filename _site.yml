@@ -1,0 +1,12 @@
+name: "data-discovery-workshop"
+output_dir: "docs"
+output: 
+  html_document:
+    theme: flatly
+navbar:
+  title: "Intro to Data Discovery"
+  left:
+    - text: "Homepage"
+      href: index.html
+    - text: "Example Projects"
+      href: projects.html
