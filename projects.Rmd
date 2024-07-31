@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Example Projects"
 editor_options: 
   markdown: 
     wrap: 72
