@@ -1,5 +1,5 @@
 ---
-title: "Presentation"
+title: ""
 ---
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTcJpxwbCzHtzr6Hg1Dbx8J7s_C-GwIi_b7CzsKpDrpk9UAimYwt1XDpe-jorFH5Xew-z76R6Wvie5n/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
